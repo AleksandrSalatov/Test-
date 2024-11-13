@@ -17,6 +17,7 @@ public class Solution {
 
     public static void main(String[] args) throws IOException {
         System.out.println("Add string");
+        String s = "Give my money";
         int count = Integer.parseInt(reader.readLine());
 
         //init threads
