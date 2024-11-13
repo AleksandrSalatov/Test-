@@ -16,7 +16,7 @@ public class Solution {
     public static volatile BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
     public static void main(String[] args) throws IOException {
-        //read count of strings
+        System.out.println("Add string");
         int count = Integer.parseInt(reader.readLine());
 
         //init threads
